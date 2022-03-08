@@ -12,3 +12,4 @@ for submission in subreddit.hot(limit=10):
     print("Text: ", submission.selftext)
     print("Score: ", submission.score)
     print("------------------------------------\n")
+    print("done..................................")
